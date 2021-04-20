@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 attrs==19.1.0
-autobahn==19.6.2
+autobahn==20.12.3
 Automat==0.7.0
 breadability==0.1.20
 cachetools==3.1.1
