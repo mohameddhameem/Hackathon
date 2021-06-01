@@ -45,7 +45,7 @@ sumy==0.8.1
 Twisted==19.2.1
 txaio==18.8.1
 uritemplate==3.0.0
-urllib3==1.25.3
+urllib3==1.26.5
 watson-developer-cloud==1.7.1
 websocket-client==0.48.0
 Werkzeug==0.15.4
